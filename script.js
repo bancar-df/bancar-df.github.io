@@ -12,9 +12,9 @@ const CONTACT_DATA = {
   instagramHandle: "@bancar_couro",
   email: "romaoamorim@hotmail.com",
   phoneDisplay: "(61) 98139-7819",
-  addressShort: "Praça 04 Setor Sul",
-  addressFull: "Praça 04 Setor Sul, Brasília - DF",
-  city: "Brasília - DF",
+  addressShort: "Praça 04, Setor Sul",
+  addressFull: "Praça 04, Setor Sul, Gama - DF",
+  city: "Gama - DF, Setor Sul",
   businessHours: "Segunda a sábado, 08h às 18h",
 };
 
